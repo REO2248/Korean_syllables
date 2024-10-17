@@ -49,6 +49,9 @@
 |GB 12052 level2|1356|[GB 12052 level2](list/GB_12052_level2.txt)|
 |GB 12052|3373|[GB 12052](list/GB_12052.txt)|
 |Adobe-KR-9|2780|[Adobe-KR-9](list/Adobe-KR-9.txt)|
+|Adobe-KR-9-Supplement-1|1578|[Adobe-KR-9-Supplement-1](list/Adobe-KR-9-Supplement-1.txt)|
+|Adobe-KR-9-Supplement-2|6814|[Adobe-KR-9-Supplement-2](list/Adobe-KR-9-Supplement-2.txt)|
+
 
 ### KS X 1001 (KS C 5601)
 한국에서 사용빈도가 높은 완성형글자 2350자가 수록되여있다.
@@ -89,6 +92,19 @@ Adobe-KR-9는 Adobe의 완성형글자집합이다.
 
 완성형글자수: 2780
 목록: [Adobe-KR-9](list/Adobe-KR-9.txt)
+
+### Adobe-KR-9-Supplement-1
+Adobe-KR-9 보충1
+
+완성형글자수: 1578
+목록: [Adobe-KR-9-Supplement-1](list/Adobe-KR-9-Supplement-1.txt)
+
+### Adobe-KR-9-Supplement-2
+Adobe-KR-9 보충2
+모두 11172자에 포함되며 Adobe-KR-9의 보충1까지에 포함되지 않은 완성형글자가 수록되여있다.
+
+완성형글자수: 6814
+목록: [Adobe-KR-9-Supplement-2](list/Adobe-KR-9-Supplement-2.txt)
 
 ### KPS 12269-2009
 
